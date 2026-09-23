@@ -17,4 +17,4 @@ Java · Spring Boot · PostgreSQL · Redis · React · TypeScript · AWS
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/saidineshponraj/)]
+[LinkedIn](https://www.linkedin.com/in/saidineshponraj/)
