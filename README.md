@@ -1,4 +1,4 @@
-[# Hey, I'm Dinesh 👋
+# Hey, I'm Dinesh 👋
 
 I'm a fourth-year Computer Science student at York University interested in software engineering, backend development, and fintech.
 
