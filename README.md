@@ -17,5 +17,4 @@ Java · Spring Boot · PostgreSQL · Redis · React · TypeScript · AWS
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/saidineshponraj/)
-](https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41)
+[LinkedIn](https://www.linkedin.com/in/saidineshponraj/)]
