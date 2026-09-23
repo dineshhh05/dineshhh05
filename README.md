@@ -1,6 +1,8 @@
-# Hey, I'm Dinesh 👋
+[# Hey, I'm Dinesh 👋
 
-I'm a Computer Science student at York University focused on software engineering, backend systems, and fintech.
+I'm a fourth-year Computer Science student at York University interested in software engineering, backend development, and fintech.
+
+I also build backend projects with Java, Spring Boot, PostgreSQL, and Redis. Open to new software engineering opportunities and internships.
 
 ### 🚀 What I'm working on
 
@@ -12,12 +14,8 @@ I'm a Computer Science student at York University focused on software engineerin
 
 Java · Spring Boot · PostgreSQL · Redis · React · TypeScript · AWS
 
-### 📌 Projects
-
-- [Transaction Management System](https://github.com/...)
-- [LinkPay](https://github.com/...)
-- [Mali](https://github.com/...)
 
 ### 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/...)
+[LinkedIn](https://www.linkedin.com/in/saidineshponraj/)
+](https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41)
