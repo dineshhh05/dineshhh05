@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Dinesh 👋
 
-<!--
-**dineshhh05/dineshhh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at York University focused on software engineering, backend systems, and fintech.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building backend systems with Java & Spring Boot
+- Learning system design and distributed systems
+- Building LinkPay, a payment link generator
+
+### 🛠️ Tech Stack
+
+Java · Spring Boot · PostgreSQL · Redis · React · TypeScript · AWS
+
+### 📌 Projects
+
+- [Transaction Management System](https://github.com/...)
+- [LinkPay](https://github.com/...)
+- [Mali](https://github.com/...)
+
+### 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/...)
