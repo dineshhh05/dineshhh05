@@ -13,7 +13,7 @@ I also build backend projects with Java, Spring Boot, PostgreSQL, and Redis. Ope
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/saidineshponraj/)
+- [LinkedIn](https://www.linkedin.com/in/saidineshponraj/)
 
 
 ### ⬇️ Check out my projects below ⬇️
